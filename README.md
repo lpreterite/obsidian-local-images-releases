@@ -8,12 +8,12 @@ Obsidian下载图片至本地插件的魔改版本
 
 - 可根据文档所属目录存放下载图片，需要开启`Path is based on the MD file`设置，具体可查看原组件[PR47](https://github.com/aleksey-rezvov/obsidian-local-images/pull/47)。
 - 下载的图片将使用图像数据MD5后作为图片名称
-
+- 下载图片存放地址支持按文件名命名目录存放
 
 
 ## 安装
 
-先安装 [Obsidian42]() 这个插件。用来支持安装来自Github仓库的插件。
+先安装 [Obsidian42](https://github.com/TfTHacker/obsidian42-brat) 这个插件。用来支持安装来自Github仓库的插件。
 
 然后点击下面按钮：
 
