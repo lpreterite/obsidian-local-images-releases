@@ -22,12 +22,12 @@ Obsidian下载图片至本地插件的魔改版本
 输入如下内容：
 
 - `Repository`：lpreterite/obsidian-local-images-releases
-- `Version`：0.14.3
+- `Version`：1.1.1
 
-> 需要注意：原版存在的记得将其**禁用**
+> 提示找不到`manifest.json`可能是你所在的网段，无法访问Github导致。
 
 接下来，去**第三方插件**找到 obsidian-local-images 启用就可以了。
 
 ## 使用
 
-使用细节和原版大致相同，可参考原版[README](https://github.com/aleksey-rezvov/obsidian-local-images)
+除了魔改版特性外，使用细节和原版大致相同，可参考原版[README](https://github.com/aleksey-rezvov/obsidian-local-images)
