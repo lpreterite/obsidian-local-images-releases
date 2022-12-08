@@ -20763,7 +20763,7 @@ function imageTagProcessor(app, mediaDir) {
                             yield app.vault.createBinary(fileName, fileData);
                         }
                         if (fileName) {
-                            return `![${anchor}](${fileName})`;
+                            return `![${anchor}](${fileName.replace(/\ /g, "%20")})`;
                         }
                         else {
                             return match;
