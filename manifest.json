@@ -1,7 +1,7 @@
 {
   "id": "obsidian-local-images-expand",
   "name": "Local images - Expand",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "minAppVersion": "0.12.15",
   "description": "Obsidian下载图片至本地插件的魔改版本",
   "author": "catalysm, aleksey-rezvov, packy-tang",
