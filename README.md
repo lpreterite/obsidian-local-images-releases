@@ -32,3 +32,12 @@ Obsidian下载图片至本地插件的魔改版本
 ## 使用
 
 除了魔改版特性外，使用细节和原版大致相同，可参考原版[README](https://github.com/aleksey-rezvov/obsidian-local-images)
+
+
+### 相对路径
+
+1.2.0 版本后增加相对路径支持！
+
+![设置-开启相对路径](docs/设置-开启相对路径.png)
+
+![开启相对路径的效果](docs/开启相对路径后的效果.png)
