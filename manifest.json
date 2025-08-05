@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-local-images",
-  "name": "Local images",
-  "version": "$npm_package_version",
+  "id": "obsidian-local-images-expand",
+  "name": "Local images - Expand",
+  "version": "2.0.0-beta.0",
   "minAppVersion": "1.8.0",
-  "description": "Local Images plugin finds all links to external images in your notes, then downloads and saves images locally, and finally adjusts the image links in your notes to point to the saved image files. Now supports both desktop and mobile platforms.",
+  "description": "Obsidian下载图片至本地插件的魔改版本",
   "author": "catalysm, aleksey-rezvov, packy-tang",
-  "authorUrl": "https://github.com/aleksey-rezvov/obsidian-local-images",
-  "isDesktopOnly": false
+  "authorUrl": "https://github.com/lpreterite/obsidian-local-images-releases",
+  "isDesktopOnly": true
 }
