@@ -6,5 +6,5 @@
   "description": "Obsidian下载图片至本地插件的魔改版本",
   "author": "catalysm, aleksey-rezvov, packy-tang",
   "authorUrl": "https://github.com/lpreterite/obsidian-local-images-releases",
-  "isDesktopOnly": true
+  "isDesktopOnly": false
 }
